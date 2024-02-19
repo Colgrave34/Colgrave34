@@ -13,6 +13,8 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 
 Website: https://hanqixu.com  
 Blog: https://blog.hanqixu.com  
+Codeberg: https://codeberg.org/Colgrave  
+Mastodon:  [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)  
 Bilibili: https://space.bilibili.com/16015122
 
 ## Donations
