@@ -20,8 +20,7 @@ Matrix: https://matrix.to/#/@colgrave34:mozilla.org
 Mastodon:  [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)  
 Bilibili: https://space.bilibili.com/16015122
 
-## Donations
-Donations are welcome!
+## Donations are welcome!
 ### Liberpay
 https://liberapay.com/Colgrave/donate  
 ### Monero
