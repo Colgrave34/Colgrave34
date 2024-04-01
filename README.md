@@ -1,5 +1,5 @@
 # Hello, Friend! 
-My name is Hanqi Xu  
+My name is Hanqi, Han-Chi or Colgrave  
 Currently an international student studying in Canada. 
 
 Huge fan of the Free software movement and Open Source technology. Love Linux and freedom.  
