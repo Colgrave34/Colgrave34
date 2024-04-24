@@ -11,12 +11,12 @@ You can reach out to me [here](https://hanqixu.com/contact/).
 I prefer using email for all my professional work.  
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
 Here’s my group chat on Matrix, feel free to drop in and hang out!  
-https://matrix.to/#/#cyber-coffeehouse:mozilla.org
+https://matrix.to/#/#cyber-coffeehouse:tchncs.de
 
 Website: https://hanqixu.com  
-Blog: https://blog.hanqixu.com  
 Codeberg: https://codeberg.org/Colgrave  
-Matrix: https://matrix.to/#/@colgrave34:mozilla.org  
+GitHub: https://github.com/Colgrave34
+Matrix: https://matrix.to/#/@colgrave34:tchncs.de  
 Mastodon:  [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)  
 Bilibili: https://space.bilibili.com/16015122
 
