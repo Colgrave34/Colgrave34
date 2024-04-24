@@ -15,7 +15,7 @@ https://matrix.to/#/#cyber-coffeehouse:tchncs.de
 
 Website: https://hanqixu.com  
 Codeberg: https://codeberg.org/Colgrave  
-GitHub: https://github.com/Colgrave34
+GitHub: https://github.com/Colgrave34  
 Matrix: https://matrix.to/#/@colgrave34:tchncs.de  
 Mastodon:  [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)  
 Bilibili: https://space.bilibili.com/16015122
