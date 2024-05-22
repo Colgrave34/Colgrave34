@@ -11,7 +11,7 @@ You can reach out to me [here](https://hanqixu.com/contact/).
 I prefer using email for all my professional work.  
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
 Here’s my group chat on Matrix, feel free to drop in and hang out!  
-https://matrix.to/#/#cyber-coffeehouse:tchncs.de
+https://matrix.to/#/#cyber-coffeehouse:matrix.pendora.io
 
 Website: https://hanqixu.com  
 Codeberg: https://codeberg.org/Colgrave  
