@@ -19,8 +19,8 @@ Mastodon: [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)
 Codeberg: https://codeberg.org/Colgrave  
 GitHub: https://github.com/Colgrave34  
 sspai: https://sspai.com/u/11l4rhh4/updates/  
-Peertube: https://tilvids.com/c/colgrave_channel/videos  
-Youtube: https://www.youtube.com/@Colgrave34  
+PeerTube: https://tilvids.com/c/colgrave_channel/videos  
+YouTube: https://www.youtube.com/@Colgrave34  
 Bilibili: https://space.bilibili.com/16015122
 
 ## Donations are welcome if you like what I do!
