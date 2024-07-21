@@ -13,11 +13,14 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 Here’s my group chat on Matrix, feel free to drop in and hang out!  
 https://matrix.to/#/#cyber-coffeehouse:pendora.io
 
-Website: https://hanqixu.com  
-Codeberg: https://codeberg.org/Colgrave  
-GitHub: https://github.com/Colgrave34  
+Website: https://hanqixu.com/  
 Matrix: https://matrix.to/#/@colgrave34:pendora.io  
 Mastodon: [@colgrave@social.linux.pizza](https://social.linux.pizza/@colgrave)  
+Codeberg: https://codeberg.org/Colgrave  
+GitHub: https://github.com/Colgrave34  
+sspai: https://sspai.com/u/11l4rhh4/updates/  
+Peertube: https://tilvids.com/c/colgrave_channel/videos  
+Youtube: https://www.youtube.com/@Colgrave34  
 Bilibili: https://space.bilibili.com/16015122
 
 ## Donations are welcome if you like what I do!
