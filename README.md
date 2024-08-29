@@ -1,6 +1,6 @@
 # Hello, Friend! 
 My name is Hanqi or just call me Colgrave.  
-Currently an international student studying in Canada. 
+Currently a graduated student in Canada. 
 
 Huge fan of the Free software movement and Open Source technology. Love Linux and freedom.  
 Computer hardware nerd that in love with photography. Like to do home lab as a hobby.  
