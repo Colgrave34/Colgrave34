@@ -22,11 +22,3 @@ sspai: https://sspai.com/u/11l4rhh4/updates/
 PeerTube: https://tilvids.com/c/colgrave_channel/videos  
 YouTube: https://www.youtube.com/@Colgrave34  
 Bilibili: https://space.bilibili.com/16015122
-
-## Donations are welcome if you like what I do!
-### Liberpay
-https://liberapay.com/Colgrave/donate  
-### Monero
-`41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
-### Unstoppable Domains
-https://slowpoct.wallet/
